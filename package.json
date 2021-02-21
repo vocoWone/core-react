@@ -42,6 +42,6 @@
     "tslint-react": "4.0.0",
     "typescript": "3.5.3",
     "tslib": "1.10.0",
-    "codecov": "3.6.1"
+    "codecov": "3.7.1"
   }
 }
